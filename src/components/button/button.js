@@ -1,6 +1,12 @@
 function Button (){
     return(
-        <button>submit</button>
+        <div>
+            <button>submit</button>
+            <button>submit</button>
+
+        </div>
+        
+    
     )
 }
 export default Button;
